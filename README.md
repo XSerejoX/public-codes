@@ -1,1 +1,1 @@
-public codes é um arquivo feito no google collab com algumas coleções de códigos criados por mim.
+Lugar onde posto códigos que criei para a área de Ciênica de Dados e Inteligência Artificial
